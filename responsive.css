@@ -1,0 +1,111 @@
+@media (max-width: 800px) {
+    .text-uppercase {
+        margin: 10px;
+        font-size: 20px;
+    }
+
+    .text-p {
+        font-size: 15px;
+    }
+
+    .contact-info {
+        width: 70%;
+        height: 300px;
+    }
+
+    .google-map {
+        width: 50%;
+      height: 500px;
+    }
+}
+@media (max-width: 550px) {
+    .text-uppercase {
+        margin: 10px;
+        font-size: 18px;
+    }
+
+    .text-p {
+        font-size: 12px;
+    }
+
+    .contact-info {
+        width: 50%;
+        height: 300px;
+    }
+
+    .google-map {
+        width: 70%;
+        height: 250px;
+    }
+
+    .form-control{
+        margin: 20px;
+        width: 50%;
+        height: 50px;
+        background-color: black;
+        border-bottom: 3px solid white;
+    }
+    .index{
+        width: 50%;
+    }
+    .col{
+        width: 40%;
+    }
+    .message{
+        width: 70%;
+        color: white;
+        background-color: black;
+        border-bottom: 3px solid white;
+    }
+    .btn{
+        width:70%;
+        height:50px;
+
+        color: black;
+        background-color:white;
+        font-size: 20px;
+}
+.title{
+font-size: 35px;}
+
+.text-uppercase{
+   font-size: 16px;
+}
+}
+@media (max-width: 460px) {
+    .text-uppercase {
+        font-size: 13px;
+
+    }
+
+}
+@media (max-width: 400px) {
+    .list{
+        width: 40%;
+        margin: 10px;
+        height: 150px;
+    }
+    .text-uppercase {
+font-size: 15px;
+    }
+    .google-map {
+        width: 70%;
+        height: 170px;
+    }
+    .contact-info{
+        width: 70%;
+        margin: 20px 0;
+
+    }
+}
+@media (max-width: 300px) {
+    .list{
+        width: 80%;
+        margin: 10px;
+        height: 124px;
+
+    }
+    .contact-info{
+        width: 100%;
+    }
+}

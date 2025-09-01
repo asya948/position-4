@@ -47,12 +47,51 @@ a{
 
 }
 .contact-info{
-    width: 70%;
+    color: white;
+    width: 80%;
     height: 500px;
-    border: 3px solid green;
     background-color: black;
+h3{
+    font-size: 20px;
 }
-.title {
+    h4{
+        font-size: 20px;
+    }
+}
+.title{
     font-size: 50px;
     color: white;
+}
+
+.form-control{
+    margin: 20px;
+    width: 50%;
+    height: 50px;
+    background-color: black;
+    border-bottom: 3px solid white;
+}
+.index{
+    width: 50%;
+}
+.col{
+    width: 40%;
+}
+.message{
+    margin: 20px 0;
+    width: 92%;
+    color: white;
+    background-color: black;
+    border-bottom: 3px solid white;
+}
+.btn{
+    width:90%;
+    height:50px;
+
+    color: black;
+    background-color:white;
+    font-size: 20px;
+}
+.google-map{
+    width: 50%;
+    padding: 0;
 }
