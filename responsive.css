@@ -119,7 +119,7 @@ font-size: 35px;
         }
     }
 }
-@media (max-width: 500px) {
+@media (max-width: 480px) {
     .text-uppercase {
         font-size: 13px;
 
